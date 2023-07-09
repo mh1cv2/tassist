@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-. "$( lsb_release -is  )/buildenv.sh"
+. "./$( lsb_release -is  )/buildenv.sh"
 
