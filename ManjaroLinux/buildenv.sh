@@ -4,4 +4,4 @@ export RELEASEID="ManjaroLinux"
 export ADMINUSER=d
 export EDITOR=micro
 export MYEDITOR=micro
-export GITROOT=/opt/gitstest
+export GITROOT=/opt/gits
